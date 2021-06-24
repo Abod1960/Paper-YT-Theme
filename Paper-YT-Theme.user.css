@@ -1,3 +1,17 @@
+@-moz-document url-prefix("http://example.com") {
+/* ==UserStyle==
+@name         Paper YT Theme
+@description  paper theme for yt.
+@namespace    https://github.com/Abod1960/Paper-YT-Theme
+@homepageURL  https://github.com/Abod1960/Paper-YT-Theme
+@supportURL   https://github.com/Abod1960/Paper-YT-Theme/issues
+@updateURL    https://github.com/Abod1960/Paper-YT-Theme/raw/main/Paper-YT-Theme.user.css
+@author       Abod1960 (https://github.com/Abod1960)
+@version      1.0.0
+@license      MIT
+==/UserStyle== */
+}
+
 @-moz-document domain("youtube.com") {
 :root {
     --bg: #424B50;
