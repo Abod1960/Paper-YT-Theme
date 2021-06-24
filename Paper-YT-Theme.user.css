@@ -71,7 +71,7 @@ ytd-subscription-notification-toggle-button-renderer #button.ytd-subscription-no
 }
 
 #logo-icon > svg > g > g:nth-child(1) > path:nth-child(1) {
-    fill: var(--accent);
+    fill: var(--red);
 }
 
 #search-icon-legacy.ytd-searchbox {
