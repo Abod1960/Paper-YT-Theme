@@ -1,4 +1,4 @@
-@-moz-document url-prefix("youtube.com") {
+@-moz-document domain("youtube.com") {
 /* ==UserStyle==
 @name         Paper YT Theme
 @description  paper theme for yt.
@@ -10,9 +10,9 @@
 @version      1.0.0
 @license      MIT
 ==/UserStyle== */
-}
 
-@-moz-document domain("youtube.com") {
+
+
 :root {
     --bg: #424B50;
     --bg-light: #475359;
