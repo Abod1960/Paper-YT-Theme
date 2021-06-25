@@ -1,7 +1,7 @@
 <h1 align='center'> Paper-YT-Theme</h1>
 
 
-![](https://i.imgur.com/TlgmCod.png)
+![](https://i.imgur.com/zbi6mlr.jpeg)
 
 
 This is a youtube theme based on the [Paper Theme by niivu](https://www.deviantart.com/niivu/art/Paper-for-Windows-10-881587608) color palette<br>
